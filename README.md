@@ -1,5 +1,7 @@
-# learnpython2017
+# Learn Python 2017
 Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ 
+
+[Форма с репозиториями для домашних заданий](https://docs.google.com/forms/d/e/1FAIpQLSc4ZsSlq-6Tsij_oKjcr4ZeWhfjhfp660OFIe3fyBBUMLGFvQ/viewform)
 
 # Занятия в 1-м семестре
 
