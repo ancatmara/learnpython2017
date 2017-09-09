@@ -5,9 +5,12 @@
 
 ## Контакты и поддержка
 
-**Страница на Piazza: ** (piazza.com/cs_hse/fall2017/ling201)[piazza.com/cs_hse/fall2017/ling201] (Инвайт: py2017)
+#### Страница на Piazza:
 
-**Группы 3,4: **
+(piazza.com/cs_hse/fall2017/ling201)[piazza.com/cs_hse/fall2017/ling201] (Инвайт: py2017)
+
+#### Группы 3,4:
+
  - Бородин Ростислав - roctbb@gmail.com
  - Иван Сухарев - ivan7654@gmail.com
 
