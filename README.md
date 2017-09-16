@@ -7,7 +7,7 @@
 
 #### Страница на Piazza:
 
-[http://piazza.com/cs_hse/fall2017/ling2017](http://piazza.com/cs_hse/fall2017/ling2017) (Инвайт: py2017)
+[http://piazza.com/cs_hse/fall2017/ling201](http://piazza.com/cs_hse/fall2017/ling201) (Инвайт: py2017)
 
 #### Группы 3,4:
 
