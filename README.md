@@ -9,10 +9,12 @@
 
 [http://piazza.com/cs_hse/fall2017/ling201](http://piazza.com/cs_hse/fall2017/ling201) (Инвайт: py2017)
 
-#### Группы 3,4:
+#### Преподаватели
 
- - Бородин Ростислав - roctbb@gmail.com
+ - Борис Орехов - nevmenandr@gmail.com 
+ - Ростислав Бородин - roctbb@gmail.com
  - Иван Сухарев - ivan7654@gmail.com
+ - Оксана Дереза - oksana.dereza@gmail.com
 
 ## Занятия в 1-м семестре
 
