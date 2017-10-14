@@ -1,7 +1,7 @@
 # Learn Python 2017
 Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ, в основе [курс 2016 года](https://github.com/elmiram/2016learnpython).
 
-[Форма с репозиториями для домашних заданий](https://docs.google.com/forms/d/e/1FAIpQLSc4ZsSlq-6Tsij_oKjcr4ZeWhfjhfp660OFIe3fyBBUMLGFvQ/viewform)
+[Форма с репозиториями для домашних заданий](https://goo.gl/forms/bF7n2BUrSA8zYLby1)
 
 ## Контакты и поддержка
 
