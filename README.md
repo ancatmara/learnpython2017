@@ -78,6 +78,13 @@
     <td> </td>
     <td> </td>
   </tr>
+  <tr>
+    <td>9.11.2017 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/9-10%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0.md">Про проект №2</a></td>
+    <td>см. конспект<br>дедлайн 02.12.2017</td>
+    <td></td>
+  </tr>
+  
   
   
   
