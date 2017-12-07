@@ -84,9 +84,12 @@
     <td>см. конспект<br>дедлайн 02.12.2017</td>
     <td></td>
   </tr>
-  
-  
-  
-  
+ <tr>
+    <td>7.12.2017 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/">MatPlotLib</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+
 </table>
 
