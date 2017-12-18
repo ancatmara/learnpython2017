@@ -89,7 +89,7 @@
     <td><a href="https://github.com/ancatmara/learnpython2017/">MatPlotLib</a></td>
     <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/matplotlib.md">ДЗ по matplotlib/sqlite</a><br>дедлайн 21.12.2017
   <br>
-  Для группы Б. В. Орехова дедлайн 23.12.2017</td>
+  Для групп Б. В. Орехова и О.В. Дерезы дедлайн 23.12.2017</td>
     <td></td>
   </tr>
 
