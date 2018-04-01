@@ -92,6 +92,12 @@
   Для групп Б. В. Орехова и О.В. Дерезы дедлайн 23.12.2017</td>
     <td></td>
   </tr>
+ <tr>
+    <td>02.04.2018 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/VK%20API%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.ipynb">Работа с ВК API</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 
 </table>
 
