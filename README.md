@@ -33,60 +33,60 @@
   </tr>
   <tr>
     <td>09.09.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/1%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20Urllib.ipynb">Выкачиваем Интернет - urllib.request</a></td>
+    <td><a href=https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/1.%20Urllib.ipynb">Выкачиваем Интернет - urllib.request</a></td>
     <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/1%20%D0%94%D0%97%20-%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.md">Скачать заголовки статей с сайта газеты</a></td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZiuBJVfFpEal6WEnV9q83vUp7FdTl1KImYjRK5vKmmk/edit?usp=sharing">Список газет</a></td>
   </tr>
   <tr>
     <td>16.09.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/2%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%BA%D1%80%D0%B0%D1%83%D0%BB%D0%B5%D1%80%D1%8B.ipynb">Выкачиваем Интернет (эпизод второй) - краулеры</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/2.%20%D0%9A%D1%80%D0%B0%D1%83%D0%BB%D0%B5%D1%80%D1%8B.ipynb">Выкачиваем Интернет (эпизод второй) - краулеры</a></td>
     <td> </td>
     <td> </td>
   </tr><tr>
     <td>23.09.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/3%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20Mystem.md">Mystem - морфологический анализатор</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/3.%20Mystem.md">Mystem - морфологический анализатор</a></td>
     <td> </td>
     <td> </td>
   </tr>
   <tr>
     <td>30.09.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/4%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%BF%D1%80%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb">Описание проекта</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/4.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb">Описание проекта</a></td>
     <td> </td>
     <td> </td>
   </tr>
   <tr>
     <td>7.10.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/5%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20json.ipynb">JSON</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/5.%20JSON.ipynb">JSON</a></td>
     <td> </td>
     <td> </td>
   </tr>
  <tr>
     <td>14.10.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/6%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B.ipynb">Формы</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/6.%20%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B.ipynb">Формы</a></td>
     <td> </td>
     <td> </td>
   </tr>
  <tr>
     <td>21.10.2017</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/7%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20flask%20intro.ipynb">Flask</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/7.%20Flask%20(1).ipynb">Flask</a></td>
     <td> </td>
     <td> </td>
   </tr>
  <tr>
     <td>2.11.2017 / ...</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/8%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20Flask%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0.ipynb">Flask 2</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/8.%20Flask%20(2)%20%D0%B8%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb">Flask 2</a></td>
     <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/additional.MD">Дополнительное дз</a>, дедлайн 20.12.2017 </td>
     <td> </td>
   </tr>
   <tr>
     <td>2.11.2017 / ...</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/9-10%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20-%20%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0.md">Про проект №2</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/9-10.%20%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0.md">Про проект №2</a></td>
     <td>см. конспект<br>дедлайн 09.12.2017</td>
     <td></td>
   </tr>
  <tr>
     <td>7.12.2017 / ...</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/">MatPlotLib</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/13.%20Matplotlib.ipynb">MatPlotLib</a></td>
     <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/matplotlib.md">ДЗ по matplotlib/sqlite</a><br>дедлайн 21.12.2017
   <br>
   Для групп Б. В. Орехова и О.В. Дерезы дедлайн 23.12.2017</td>
@@ -94,7 +94,7 @@
   </tr>
  <tr>
     <td>02.04.2018 / ...</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/VK%20API%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.ipynb">Работа с ВК API</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/14.%20VK%20API%20(1).ipynb">Работа с VK API</a></td>
     <td></td>
     <td></td>
   </tr>
