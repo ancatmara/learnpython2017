@@ -98,6 +98,14 @@
     <td></td>
     <td></td>
   </tr>
+     <tr>
+    <td>07.04.2018 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/15.%20VK%20API%20(2)%20%D0%B8%20matplotlib.ipynb">Работа с VK API 2</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 
 </table>
+
+
 
