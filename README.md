@@ -5,15 +5,10 @@
 
 ## Контакты и поддержка
 
-#### Страница на Piazza:
-
-[http://piazza.com/cs_hse/fall2017/ling201](http://piazza.com/cs_hse/fall2017/ling201) (Инвайт: py2017)
-
 #### Преподаватели
 
  * Борис Орехов - nevmenandr@gmail.com 
  * Ростислав Бородин - roctbb@gmail.com
- * Иван Сухарев - ivan7654@gmail.com
  * Оксана Дереза - oksana.dereza@gmail.com
  
  #### Учебные ассистенты
@@ -121,10 +116,16 @@
     <td>21.04.2018 / ...</td>
     <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/pymorphy2%2C%20pymystem3.ipynb
 ">PyMystem и PyMorphy</a></td>
-    <td>ДЗ в конце конспекта до 7го мая.</td>
+    <td>ДЗ в конце конспекта до 11го мая.</td>
     <td></td>
   </tr>
-
+<tr>
+    <td>23.04.2018 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/Tweepy.ipynb
+">Twitter API</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 
