@@ -132,6 +132,13 @@
     <td></td>
     <td></td>
   </tr>
+     <tr>
+    <td>30.04.2018 / ...</td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D1%8B%2C%20networkx.ipynb">Графы и networkx</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
+
 
 
