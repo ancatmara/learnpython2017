@@ -152,7 +152,7 @@
   </tr>
      <tr>
     <td>28.05.2018 / ...</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1zgLfOPh0GsqHrVF4cvFKxg4SwDnbBatwP1o0jxUeqXI/edit?usp=sharing">Список тем</a></td>
     <td>Итоговый проект до 16.06 23:59</td>
     <td></td>
   </tr>
