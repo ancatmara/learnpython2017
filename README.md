@@ -146,8 +146,14 @@
   </tr>
      <tr>
     <td>28.05.2018 / ...</td>
-    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/Heroku.md">word2vec</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2017/blob/master/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/Heroku.md">Heroku</a></td>
     <td></td>
+    <td></td>
+  </tr>
+     <tr>
+    <td>28.05.2018 / ...</td>
+    <td></td>
+    <td>Итоговый проект до 16.06 23:59</td>
     <td></td>
   </tr>
 </table>
