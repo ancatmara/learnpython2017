@@ -7,13 +7,13 @@
 
 #### Преподаватели
 
- * Борис Орехов - nevmenandr@gmail.com 
- * Ростислав Бородин - roctbb@gmail.com
- * Оксана Дереза - oksana.dereza@gmail.com
+ * Борис Орехов - nevmenandr at gmail dot com 
+ * Ростислав Бородин - roctbb at gmail dot com
+ * Оксана Дереза - oksana dot dereza at gmail dot com
  
  #### Учебные ассистенты
  
- * Елена Сокур - pelmenium.sokurium@gmail.com
+ * Елена Сокур - pelmenium dot sokurium at gmail dot com
 
 ## Занятия в 1-м семестре
 
